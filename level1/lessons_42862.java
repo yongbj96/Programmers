@@ -1,5 +1,6 @@
 package level1;
 
+// 체육복
 public class lessons_42862 {
     /*
         int n = 7;

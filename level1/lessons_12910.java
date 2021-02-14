@@ -2,6 +2,7 @@ package level1;
 
 import java.util.Arrays;
 
+// divisor로 나눠지는 숫자
 public class lessons_12910 {
     /*
         int[] arr = {5, 9, 7, 10};
@@ -22,7 +23,7 @@ public class lessons_12910 {
 
         for(int i=0; i<count; i++) answer[i] = arr[i];
 
-        Function.OrderBy(answer);
+        Arrays.sort(answer);
         
         return answer;
     }
